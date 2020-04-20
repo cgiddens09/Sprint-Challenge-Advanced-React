@@ -31,3 +31,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+.content{
+  display:flex;
+  justify-content: center;
+  text-align: center;
+  color:darkorchid;
+  flex-direction: column;
+  border: 2px dashed black;
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 2%;
+}
+
+.dark-mode {
+  background-color: black;
+  color: lightcoral;
+
+}
+
