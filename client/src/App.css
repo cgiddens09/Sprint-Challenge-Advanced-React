@@ -46,7 +46,7 @@
 }
 
 .dark-mode {
-  color: #fff;
+  color: whitesmoke;
   background-color: #2c3d58;
 
  
@@ -71,6 +71,12 @@
   height: 20px;
   position: relative;
   width: 40px;
+  display:flex;
+  justify-content: space-between;
+  flex-direction: row;
+  
+  
+
 }
 
 .toggle {
